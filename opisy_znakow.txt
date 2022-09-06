@@ -1,0 +1,46 @@
+A-1 Niebezpieczny zakręt w prawo
+A-2 Niebezpieczny zakręt w lewo
+A-3 Niebezpieczne zakręty, pierwszy w prawo
+A-4 Niebezpieczne zakręty, pierwszy w lewo
+A-6a Skrzyżowanie z drogą podporządkowaną występującą po obu stronach
+A-6b Skrzyżowanie z drogą podporządkowaną występującą po prawej stronie
+A-6c Skrzyżowanie z drogą podporządkowaną występującą po lewej stronie
+A-7 Ustąp pierwszeństwa
+A-8 Skrzyżowanie o ruchu okrężnym
+A-11a Próg zwalniający
+A-12a Zwężenie jezdni - dwustronne
+A-16 Przejście dla pieszych
+A-17 Dzieci
+A-18b Zwierzęta dzikie
+A-24 Rowerzyści
+A-29 Sygnały świetlne
+A-30 Inne niebezpieczeństwo
+A-32 Oszronienie jezdni
+B-1 Zakaz ruchu w obu kierunkach
+B-2 Zakaz wjazdu
+B-20 STOP
+B-21 Zakaz skręcania w lewo
+B-22 Zakaz skręcania w prawo
+B-25 Zakaz wyprzedzania
+B-27 Koniec zakazu wyprzedzania
+B-33 Ograniczenie prędkości
+B-34 Koniec ograniczenia prędkości
+B-36 Zakaz zatrzymywania się
+B-42 Koniec zakazów
+C-2 Nakaz jazdy w prawo za znakiem
+C-4 Nakaz jazdy w lewo za znakiem
+C-5 Nakaz jazdy prosto
+C-9 Nakaz jazdy z prawej strony znaku
+C-12 Ruch okrężny
+D-1 Droga z pierwszeństwem
+D-2 Koniec drogi z pierwszeństwem
+D-3 Droga jednokierunkowa
+D-6 Przejście dla pieszych
+D-6a Przejazd dla rowerów
+D-40 Strefa zamieszkania 
+D-41 Koniec strefy zamieszkania 
+D-42 Obszar zabudowany
+D-43 Koniec obszaru zabudowanego
+S-1 Sygnalizator z sygnałami do kierowania ruchem
+S-2 Sygnalizator z sygnałem dopuszczającym skręcanie w kierunku wskazanym strzałką
+S-3 Sygnalizator kierunkowy

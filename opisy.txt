@@ -1,0 +1,45 @@
+Ustąp pierwszeństwa
+Strefa zamieszkania
+Ograniczenie prędkości
+Próg zwalniający
+Zakaz skręcania w lewo
+Koniec strefy zamieszkania
+Zakaz wjazdu
+Przejście dla pieszych
+Nakaz jazdy z prawej strony znaku
+Sygnały świetlne
+Sygnalizator z sygnałami do kierowania ruchem
+Zakaz zatrzymywania się
+Droga z pierwszeństwem
+Przejście dla pieszych
+Sygnalizator kierunkowy
+Sygnalizator z sygnałem dopuszczającym skręcanie w kierunku wskazanym strzałką
+Zakaz wyprzedzania
+Inne niebezpieczeństwo
+Dzieci
+Koniec obszaru zabudowanego
+Zwierzęta dzikie
+Koniec zakazów
+Niebezpieczny zakręt w prawo
+Koniec zakazu wyprzedzania
+Skrzyżowanie z drogą podporządkowaną występującą po obu stronach
+Rowerzyści
+Niebezpieczne zakręty, pierwszy w prawo
+Skrzyżowanie z drogą podporządkowaną występującą po lewej stronie
+Zakaz skręcania w prawo
+Skrzyżowanie z drogą podporządkowaną występującą po prawej stronie
+Niebezpieczny zakręt w lewo
+Koniec drogi z pierwszeństwem
+Nakaz jazdy prosto
+Oszronienie jezdni
+-
+Obszar zabudowany
+STOP
+Skrzyżowanie o ruchu okrężnym
+Ruch okrężny
+Koniec ograniczenia prędkości
+Przejazd dla rowerów
+Zakaz ruchu w obu kierunkach
+Droga jednokierunkowa
+Zwężenie jezdni - dwustronne
+Nakaz jazdy w lewo za znakiem
